@@ -9,6 +9,7 @@
 .error-indicator img {
     margin-bottom: 1rem;
     width: 100px;
+    height: 85px;
 }
 
 .error-indicator .boom{
